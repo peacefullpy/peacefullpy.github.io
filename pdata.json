@@ -1,0 +1,110 @@
+[
+    {
+        "id": 18,
+        "brand": "GSC",
+        "link": "https://amzn.to/3rcXqNe",
+        "imgpath": "/image/pdata/018.jpg"
+    },
+    {
+        "id": 17,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3PCLMFI",
+        "imgpath": "/image/pdata/017.jpg"
+    },
+    {
+        "id": 16,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3D1e5q5",
+        "imgpath": "/image/pdata/016.jpg"
+    },
+    {
+        "id": 15,
+        "brand": "Freeing",
+        "link": "https://amzn.to/46i4CrC",
+        "imgpath": "/image/pdata/015.jpg"
+    },
+    {
+        "id": 14,
+        "brand": "Freeing",
+        "link": "https://amzn.to/44fcR68",
+        "imgpath": "/image/pdata/014.jpg"
+    },
+    {
+        "id": 13,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3NGhdxs",
+        "imgpath": "/image/pdata/013.jpg"
+    },
+    {
+        "id": 12,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3PpuL1A",
+        "imgpath": "/image/pdata/012.jpg"
+    },
+    {
+        "id": 11,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3Js47Bq",
+        "imgpath": "/image/pdata/011.jpg"
+    },
+    {
+        "id": 10,
+        "brand": "Freeing",
+        "link": "https://amzn.to/43Ugj6m",
+        "imgpath": "/image/pdata/010.jpg"
+    },
+    {
+        "id": 9,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3XnHmV3",
+        "imgpath": "/image/pdata/009.jpg"
+    },
+    {
+        "id": 8,
+        "brand": "Freeing",
+        "link": "https://amzn.to/44gaQX6",
+        "imgpath": "/image/pdata/008.jpg"
+    },
+    {
+        "id": 7,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3qORqKw",
+        "imgpath": "/image/pdata/007.jpg"
+    },
+    {
+        "id": 6,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3NjEVyh",
+        "imgpath": "/image/pdata/006.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3CIJe13",
+        "imgpath": "/image/pdata/005.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3NHWiKp",
+        "imgpath": "/image/pdata/004.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Freeing",
+        "link": "https://amzn.to/446cjiY",
+        "imgpath": "/image/pdata/003.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3NHXbma",
+        "imgpath": "/image/pdata/002.jpg"
+    },
+    {
+        "id": 1,
+        "brand": "Freeing",
+        "link": "https://amzn.to/45LhuGH",
+        "imgpath": "/image/pdata/001.jpg"
+    }
+]

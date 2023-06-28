@@ -1,0 +1,9 @@
+div,p,h1,h2,h3,h4,h5,ul,li{
+    font-family: 'Noto Sans HK', sans-serif;
+}
+
+a{
+    text-decoration:none;
+    color: inherit;
+}
+
