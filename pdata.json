@@ -1,5 +1,23 @@
 [
     {
+        "id": 21,
+        "brand": "Freeing",
+        "link": "https://amzn.to/44sJvRT",
+        "imgpath": "/image/pdata/021.jpg"
+    },
+    {
+        "id": 20,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3NzG0Cl",
+        "imgpath": "/image/pdata/020.jpg"
+    },
+    {
+        "id": 19,
+        "brand": "Freeing",
+        "link": "https://amzn.to/3JC0LvS",
+        "imgpath": "/image/pdata/019.jpg"
+    },
+    {
         "id": 18,
         "brand": "GSC",
         "link": "https://amzn.to/3rcXqNe",
